@@ -7,6 +7,6 @@
 
 <pre><code> cd simple-GUI-text-editor </code></pre>
 <p> compile the TextEditor.java file </p>
-<pre><code> javac TextEditor.java </code><pre>
+<pre><code> javac TextEditor.java </code></pre>
 <p> run the file </p>
 <pre><code> java TextEditor </code></pre>
